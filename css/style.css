@@ -1,0 +1,32 @@
+nav {
+    background-color: silver ;
+    padding: 10px;
+    text-align: right;
+}
+
+footer {
+    background-color: silver ;
+    text-align: center;
+}
+
+#LogoHtml {
+    width: 150px;
+    height: 150px;
+}
+
+#LogoCss {
+    width: 150px;
+    height: 150px;
+}
+
+main {
+    padding: 10px 300px;
+}
+
+#name {
+    font-weight: bold;
+}
+
+#mail {
+    font-style: italic;
+}
